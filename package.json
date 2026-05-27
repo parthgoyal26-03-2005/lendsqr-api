@@ -1,24 +1,21 @@
 {
   "name": "user_records",
   "version": "1.0.0",
-  "description": "Mock API for Lendsqr frontend assessment",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "start": "npx json-server --watch db.json --host 0.0.0.0 --port 10000"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parthgoyal26-03-2005/lendsqr-api.git"
+    "url": "git+https://github.com/parthgoyal26-03-2005/user_records.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/parthgoyal26-03-2005/lendsqr-api/issues"
+    "url": "https://github.com/parthgoyal26-03-2005/user_records/issues"
   },
-  "homepage": "https://github.com/parthgoyal26-03-2005/lendsqr-api#readme",
-  "dependencies": {
-    "json-server": "^0.17.4"
-  }
+  "homepage": "https://github.com/parthgoyal26-03-2005/user_records#readme"
 }
